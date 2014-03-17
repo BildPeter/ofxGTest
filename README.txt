@@ -1,0 +1,9 @@
+
+Tested on:
+Mac OS X 10.9 (Mavericks)
+
+- Example included
+
+Creation of an executable
++ Dublicate the Target Project/Target (Command + D)
++ Target membership of the file main_gTest.cpp set to new Target
