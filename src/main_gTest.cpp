@@ -1,6 +1,6 @@
 #include "ofMain.h"
-#include "testApp.h"
-#include "gtest.h"
+#include "ofApp.h"
+#include "gtest/gtest.h"
 
 GTEST_API_ int main(int argc, char **argv) {
     printf("Running Google Test on openFrameworks\n");
